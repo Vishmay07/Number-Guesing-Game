@@ -1,0 +1,4 @@
+matches_played,average,strike_rate,wickets,opposition_team,match_type,predicted_runs
+50,40,130,10,India,T20,60
+40,35,125,15,Pakistan,ODI,70
+60,45,140,20,Australia,Test,80
